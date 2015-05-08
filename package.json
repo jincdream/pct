@@ -1,0 +1,17 @@
+{
+  "name": "pct",
+  "version": "1.0.0",
+  "description": "pcGroup font-end tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "pct": "bin/pct"
+  },
+  "author": "pc-team",
+  "license": "MIT",
+  "dependencies": {
+    "fis": "^1.9.18"
+  }
+}
